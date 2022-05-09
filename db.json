@@ -13,8 +13,8 @@
         {
             "aboutid": 2,
             "section": "About",
-            "AboutFirstContent": "IF YOU HAVE TASKS, THEN YOU DEFINETELY NEED US.",
-            "AboutSecondContent": "Our Mission is what pushes us to maximise human potentials. We do that by enabling our users properly organise tasks, set timers for when they wish to execute any of their tasks. We keep you up-to-date with your progress towards completing the tasks."
+            "aboutFirstContent": "IF YOU HAVE TASKS, THEN YOU DEFINETELY NEED US.",
+            "aboutSecondContent": "Our Mission is what pushes us to maximise human potentials. We do that by enabling our users properly organise tasks, set timers for when they wish to execute any of their tasks. We keep you up-to-date with your progress towards completing the tasks."
         },
         {
             "contactid": 3,
